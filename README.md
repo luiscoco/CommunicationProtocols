@@ -40,7 +40,9 @@ Many application-layer protocols build on top of TCP.
 
 UDP sends packets directly to a target computer, without establishing a connection first. 
 
-UDP is commonly used in time-sensitive communications where occasionally dropping packets is better than waiting. Voice and video traffic are often sent using this protocol.
+UDP is commonly used in time-sensitive communications where occasionally dropping packets is better than waiting.
+
+Voice and video traffic are often sent using this protocol.
 
 ## SMTP (Simple Mail Transfer Protocol)
 
